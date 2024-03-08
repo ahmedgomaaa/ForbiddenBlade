@@ -42,7 +42,7 @@ https://www.java.com/en/download/
 
 ## Usage
 
-nothing special, just run the tool, let it download dependencies, and it will launch
+Simply execute the tool, allow it to download necessary dependencies, and it will initiate automatically.
 
 ## Roadmap
 
@@ -72,8 +72,4 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ahmedgomaaa/
 
 * **ahmedgomaaa** - ** - [ahmedgomaaa](https://github.com/ahmedgomaaa/) - **
 
-## Acknowledgements
 
-* []()
-* []()
-* []()
