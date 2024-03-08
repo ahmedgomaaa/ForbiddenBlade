@@ -19,7 +19,7 @@
 
 ![Screen Shot](https://i.imgur.com/mg5wugw.jpeg)
 
-Forbidden Blade is a powerful tool that grants you unprecedented insight into the inner workings of the League Client's LCU (League Client Update) layer. This tool is a resurrection and enhancement of the original "Netherblade," which was unfortunately lost to the annals of the internet.
+Forbidden Blade is a powerful tool that grants you unprecedented insight into the inner workings of the League Client's LCU (League Client Update) layer. This tool is a resurrection and resharing of the original "Netherblade," which was unfortunately lost to the annals of the internet.
 
 With Forbidden Blade, you can peer behind the curtain, observing requests executed by the LCU layer, unraveling the intricacies of the League of Legends client. This includes scrutinizing the RTMP (Real-Time Messaging Protocol) traffic, examining both requests and responses, and exploring the various endpoints that facilitate communication within the client.
 
